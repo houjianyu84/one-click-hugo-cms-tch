@@ -1,6 +1,6 @@
 ---
 title: World Wise Rise
-subtitle: Thomas Henderson
+subtitle: 'Get your travel documentation right with VISAtour! '
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Who is Thomas Henderson?
