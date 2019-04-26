@@ -3,7 +3,7 @@ title: World Wise Rise
 subtitle: 'Get your travel documentation right with VISAtour! '
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Who is Thomas Henderson?
+  heading: Week keep up on travel documentation for you!
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
